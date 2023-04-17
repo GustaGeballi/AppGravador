@@ -7,7 +7,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 import TelaCarregamento from './Telas/TelaCarregamento';
 import Gravador from './Telas/Gravador';
 
-
+//==============================================================
 
 const Stack = createStackNavigator();
 

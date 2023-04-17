@@ -3,6 +3,8 @@ import { View, StyleSheet } from 'react-native';
 import LottieView from 'lottie-react-native';
 import { useNavigation } from '@react-navigation/native';
 
+//==================================================================
+
 export default function TelaCarregamento() {
   const [carregando, setCarregando] = useState(true);
 
